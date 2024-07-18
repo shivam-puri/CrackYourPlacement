@@ -29,3 +29,5 @@ public:
 
 // 2. Use a frequency map array (size N+1) and increment the value of each index, as soon as an element appears. Return the index of frequency 2
 // Time Complexity - O(N) | Space Complexity - O(N)
+
+// try to use Binary search for this problem
